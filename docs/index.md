@@ -1,4 +1,4 @@
-![Claude Shannon](../images/ces.jpg)
+![Claude Shannon](images/ces.jpg)
 
 # This is a heading
 ## This is another heading
