@@ -6,6 +6,7 @@
 This is **bold**. This is **italicized**. This is ~~struck-through~~. This is <ins>underlined</ins>
 
 > This is a quote.
+
 This is `code`.
 ```
 This is also code.
